@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0EXBWiSPUpnwmfeuY2Fsu0uMZoIaO4EJb9eSZhIhgxxMZx5eSLKL522Y/cmmKcohgetHiV8NiWEZ0vLLrhCKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keoma\\OneDrive\\Área de Trabalho\\1\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keoma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\keoma\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\keoma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\keoma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
